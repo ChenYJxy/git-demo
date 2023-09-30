@@ -5,8 +5,5 @@ hello git!
 hello git!
 hello git!
 hello git!
-<<<<<<< HEAD
 hello git! master tset
-=======
 hello git! hot-fix test
->>>>>>> hot-fix
